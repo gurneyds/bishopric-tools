@@ -1,6 +1,5 @@
 # create-react-app with a Node server on Heroku
 
-hi
 A minimal example of using a Node backend (server for API, proxy, & routing) with a [React frontend](https://github.com/facebookincubator/create-react-app).
 
 * 📐 [Design Points](#user-content-design-points)
