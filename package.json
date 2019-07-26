@@ -1,7 +1,7 @@
 {
-  "name": "heroku-cra-node",
-  "version": "3.0.0",
-  "description": "How to use create-react-app with a custom Node API on Heroku",
+  "name": "bishopric-tools",
+  "version": "0.1.0",
+  "description": "Tools to help Bishopric do their job.",
   "engines": {
     "node": "10.x"
   },
@@ -11,7 +11,7 @@
   },
   "cacheDirectories": [
     "node_modules",
-    "react-ui/node_modules"
+    "client/node_modules"
   ],
   "dependencies": {
     "express": "^4.16.4"
@@ -26,6 +26,7 @@
     "create-react-app",
     "react"
   ],
+  "author": "David Gurney",
   "license": "MIT",
   "devDependencies": {}
 }
